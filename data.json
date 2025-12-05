@@ -1,0 +1,32 @@
+
+{
+  "prompt": "Use the Playwright MCP to browse Amazon. Find 3 men's casual shirts under $30 with good reviews. Share links, prices, main features, and any sizing notes. Prefer neutral colors.",
+  "extracted_shirts": [
+    {
+      "name": "Life is Good Men's Crusher Tee Shirt, Short Sleeve Cotton Graphic T-Shirts, Happy Hour",
+      "link": "https://www.amazon.com/Life-Good-Crusher-T-Shirts-Graphic/dp/B0F2GTBTYN/ref=sr_1_1?dib=eyJ2IjoiMSJ9.Nez8_FepTdfjKiMZQCmq-fTaUskjfo4sVedcKD6gqGj1BIfV9DyiJibvXUfrxNBhtHNQh22dDTTZ-dOMT6B5i5yXHx9onR7cLHw4TEx-zsOvWaYz9RDEqaKyakhzix5MIS0GBfmPmLFGClPGeOBXJHQTlZNJ4AXnSeDUreTDBZ9Xa8S0dkEhO2i6miwNQ6RcVfgQhdg6drsQknv1q8vWIOLLIJwsCGgftFB597E9jUkN5UGGb03evUYIgBYZNMgMHYu_gLaznoCyfy8COtrjwLYb9Uzqm4FdGk3GiYeYOIQ.pki5b4tn03jlNE22YEvUvbd1KtU-1Gv9QmcouX_NzJs&dib_tag=se&keywords=men%27s+casual+shirts&qid=1764100508&sr=8-1",
+      "price": "$20.67",
+      "features": "Short sleeve, cotton graphic t-shirt with \"Happy Hour\" design.",
+      "reviews": "4.9 out of 5 stars (392 ratings)",
+      "sizing_notes": "Not available due to truncation"
+    },
+    {
+      "name": "Life is Good. Mens Crusher Tee I'll Be Watching You, Darkest Blue",
+      "link": "https://www.amazon.com/Life-Good-Standard-Crusher-Watching/dp/B08WG7BN4C/ref=sr_1_2?dib=eyJ2IjoiMSJ9.Nez8_FepTdfjKiMZQCmq-fTaUskjfo4sVedcKD6gqGj1BIfV9DyiJibvXUfrxNBhtHNQh22dDTTZ-dOMT6B5i5yXHx9onR7cLHw4TEx-zsOvWaYz9RDEqaKyakhzix5MIS0GBfmPmLFGClPGeOBXJHQTlZNJ4AXnSeDUreTDBZ9Xa8S0dkEhO2i6miwNQ6RcVfgQhdg6drsQknv1q8vWIOLLIJwsCGgftFB597E9jUkN5UGGb03evUYIgBYZNMgMHYu_gLaznoCyfy8COtrjwLYb9Uzqm4FdGk3GiYeYOIQ.pki5b4tn03jlNE22YEvUvbd1KtU-1Gv9QmcouX_NzJs&dib_tag=se&keywords=men%27s+casual+shirts&qid=1764100508&sr=8-2",
+      "price": "$29.95",
+      "features": "Crusher tee with \"I'll Be Watching You\" graphic.",
+      "color": "Darkest Blue (a neutral color)",
+      "reviews": "4.8 out of 5 stars (2,514 ratings)",
+      "sizing_notes": "Not available due to truncation"
+    },
+    {
+      "name": "Someone Awesome Comes Along | Mens Graphic T Shirt with Fun Quote | Funny Tee Shirt for Men Printed in USA, Funny T Shirts",
+      "link": "https://www.amazon.com/Someone-Amazing-Novelty-Graphic-Sarcastic/dp/B015G0JHMA/ref=sr_1_3?dib=eyJ2IjoiMSJ9.Nez8_FepTdfjKiMZQCmq-fTaUskjfo4sVedcKD6gqGj1BIfV9DyiJibvXUfrxNBhtHNQh22dDTTZ-dOMT6B5i5yXHx9onR7cLHw4TEx-zsOvWaYz9RDEqaKyakhzix5MIS0GBfmPmLFGClPGeOBXJHQTlZNJ4AXnSeDUreTDBZ9Xa8S0dkEhO2i6miwNQ6RcVfgQhdg6drsQknv1q8vWIOLLIJwsCGgftFB597E9jUkN5UGGb03evUYIgBYZNMgMHYu_gLaznoCyfy8COtrjwLYb9Uzqm4FdGk3GiYeYOIQ.pki5b4tn03jlNE22YEvUvbd1KtU-1Gv9QmcouX_NzJs&dib_tag=se&keywords=men%27s+casual+shirts&qid=1764100508&sr=8-3",
+      "price": "$18.99",
+      "features": "Graphic t-shirt with a fun quote, printed in USA.",
+      "reviews": "4.8 out of 5 stars (1,389 ratings)",
+      "sizing_notes": "Not available due to truncation"
+    }
+  ]
+}
+
